@@ -3,5 +3,5 @@ ini adalah project terbuka dimana anda bebas menggunakan nya ataupun berkontribu
 dimana isinya adalah materi saya dalam mengisi kelas web development di UKMF MCC pada tahun 2024 
 
 
-[1] PPT first meet: https://docs.google.com/presentation/d/1nC3ZY6blqMCm2InrcyKp6_83ZkxUlMRvqA_PV7pVbA4/edit?usp=sharing
-[1] PPT second meet: 
+[0] PPT first meet: https://docs.google.com/presentation/d/1nC3ZY6blqMCm2InrcyKp6_83ZkxUlMRvqA_PV7pVbA4/edit?usp=sharing
+[0] PPT second meet: 
