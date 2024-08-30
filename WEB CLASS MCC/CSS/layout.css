@@ -1,0 +1,55 @@
+.container{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  width: 100%;
+}
+.kotak{
+  border: 1px solid white;
+  background-color: blue;
+  height: 100px;
+  width: 100px;
+}
+.kotak-2{
+  border: 1px solid white;
+  background-color: red;
+  height: 50px;
+  width: 50px;
+}
+
+.button-keren {
+  color: white;
+  background-color: #7668f4;
+  padding: 10px 20px;
+  margin: 10px;
+  border: 1px solid black;
+  font-size: 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: center;
+  width: fit-content;
+  border-radius: 20px;
+}
+/* .button-keren:hover{
+  background-color: #f47668;
+  font-size: 40px;
+} */
+.button-keren:focus{
+  background-color: #421712;
+  font-size: 40px;
+}
+.kotak:first-child{
+  background-color: yellow;
+}
+.kotak:nth-child(3){
+  background-color: green;
+}
+.kotak::before{
+  content: 'Kotak';
+  color: white;
+  font-size: 20px;
+}
+
+.kotak::after{
+  content: 'Kotak 00';
+  color: white;
+  font-size: 20px;
+}

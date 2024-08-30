@@ -1,0 +1,39 @@
+h2{
+  color: aqua;
+  background-color: black;
+}
+
+.title-text{
+  font-size: 30px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: blueviolet;
+}
+#title{
+  color: red;
+}
+.ineru #title{
+  color: green;
+}
+
+.ineru h1#title{
+  color: yellow;
+}
+
+.button-keren {
+  color: white;
+  background-color: #7668f4;
+  padding: 10px 20px;
+  margin: 10px;
+  border: 1px solid black;
+  font-size: 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: center;
+  text-decoration: underline;
+  width: fit-content;
+  border-radius: 20px;
+}
+
+.screeno{
+  height: 100vh;
+}
+
